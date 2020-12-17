@@ -1,0 +1,8 @@
+E:\Work\Makkajai\SalesTaxCalculator\bin\Debug\SalesTaxCalculator.exe.config
+E:\Work\Makkajai\SalesTaxCalculator\bin\Debug\SalesTaxCalculator.exe
+E:\Work\Makkajai\SalesTaxCalculator\bin\Debug\SalesTaxCalculator.pdb
+E:\Work\Makkajai\SalesTaxCalculator\obj\Debug\SalesTaxCalculator.csprojAssemblyReference.cache
+E:\Work\Makkajai\SalesTaxCalculator\obj\Debug\SalesTaxCalculator.csproj.CoreCompileInputs.cache
+E:\Work\Makkajai\SalesTaxCalculator\obj\Debug\SalesTaxCalculator.exe
+E:\Work\Makkajai\SalesTaxCalculator\obj\Debug\SalesTaxCalculator.pdb
+E:\Work\Makkajai\SalesTaxCalculator\bin\Debug\Settings.txt
